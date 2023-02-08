@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-H2_k7wUGgPhxk5iknxJbCQ" name="new_role,_QqyCUKfjEe2G09K-eDf-1Q" guid="-H2_k7wUGgPhxk5iknxJbCQ" changeDate="2023-02-08T16:03:45.425-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-8536ae97-7fff-7f58-fc22-a95f4c5254d8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-8536ae97-7fff-7f58-fc22-a95f4c5254d8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Responsável por&amp;nbsp; garantir que as equipes de desenvolvimento sejam altamente colaborativas e ágeis.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Facilitador Peripatético: responsável por conduzir e facilitar as reuniões caminhando, bem como de ajudar a equipe a&#xD;
+    incorporar a filosofia peripatética ao seu trabalho. Além disso, o título destaca a importância da filosofia&#xD;
+    peripatética no processo de software e reforça o compromisso da equipe em implementá-la de maneira efetiva.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

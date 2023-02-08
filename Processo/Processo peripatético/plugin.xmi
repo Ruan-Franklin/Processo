@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_L2WcUafeEe2G09K-eDf-1Q" guid="_L2WcUafeEe2G09K-eDf-1Q">
+    <subManagers xmi:id="_t_U8oafyEe2G09K-eDf-1Q" href="uma://_t-lVwKfyEe2G09K-eDf-1Q#_t_U8oafyEe2G09K-eDf-1Q"/>
+    <resourceDescriptors xmi:id="_CfonsKfiEe2G09K-eDf-1Q" id="-9X5G68UfdNL4AAfofcV6zw" uri="roles/gerente_de_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_CfonsafiEe2G09K-eDf-1Q" id="-IR9WfbM3n28kzeidZVBweg" uri="tasks/estabelecer_objetivos_e_metas_claras_para_o_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_CfonsqfiEe2G09K-eDf-1Q" id="-P-YS132tEJGdKbszDycB5Q" uri="workproducts/backlog_do_produto.xmi"/>
+    <resourceDescriptors xmi:id="_CfxxoKfiEe2G09K-eDf-1Q" id="-QyXQAyJsuujbVOssVVeTDg" uri="roles/analista_de_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_CfxxoafiEe2G09K-eDf-1Q" id="-YzhA5Q6PyVmDjkg9RBhO0A" uri="tasks/entender_as_necessidades_do_cliente_atravs_de_reunies_e_pesquisas.xmi"/>
+    <resourceDescriptors xmi:id="_CfxxoqfiEe2G09K-eDf-1Q" id="-4Nfp0W7RHW6wYITMHAJL5w" uri="tasks/documentar_requisitos_funcionais_claros_e_detalhados.xmi"/>
+    <resourceDescriptors xmi:id="_Cfxxo6fiEe2G09K-eDf-1Q" id="-YV5n2Nd6TFBZciqpCPwbrA" uri="tasks/validar_os_requisitos_com_o_cliente_e_garantir_sua_aprovao.xmi"/>
+    <resourceDescriptors xmi:id="_Cf7ioKfiEe2G09K-eDf-1Q" id="-iE2MpXJ4uR2Bd5KJtkPxyA" uri="tasks/trabalhar_com_o_time_de_desenvolvimento_para_garantir_a_compreenso_dos_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_Cf7ioafiEe2G09K-eDf-1Q" id="-Q8cZVWWdm-WcjBrCOwDlpw" uri="tasks/preparar_oramentos_e_cronogramas_detalhados.xmi"/>
+    <resourceDescriptors xmi:id="_Cf7ioqfiEe2G09K-eDf-1Q" id="-wsYZPh0tvig97T-rYle1wA" uri="tasks/gerenciar_riscos_e_resolver_problemas.xmi"/>
+    <resourceDescriptors xmi:id="_Cf7io6fiEe2G09K-eDf-1Q" id="-m70-Iw8vuomcKPJbipcurw" uri="tasks/coordenar_com_outros_departamentos_e_equipes_envolvidas_no_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_Cf7ipKfiEe2G09K-eDf-1Q" id="-N4_RBCqdqTGomC-5m4YcmA" uri="tasks/fornecer_relatrios_regulares_sobre_o_progresso_do_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_6XX1MafjEe2G09K-eDf-1Q" id="-FOqocMLMr1e_So81c9C2Kg" uri="tasks/implementar_as_funcionalidades_do_software_de_acordo_com_os_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_6XX1MqfjEe2G09K-eDf-1Q" id="-sVJB2J-Q0hA2E_rwDRIGSg" uri="roles/time_de_desenvolvimento.xmi"/>
+    <resourceDescriptors xmi:id="_6XX1M6fjEe2G09K-eDf-1Q" id="-4mQXAybtLbCeZQjRmfOI3Q" uri="tasks/_realizar_testes_de_unidade_e_integrao.xmi"/>
+    <resourceDescriptors xmi:id="_6XhmMKfjEe2G09K-eDf-1Q" id="-vXuNriWXGZpU_CKYF6QtKQ" uri="tasks/participar_de_reunies_dirias_de_scrum_e_revises_de_sprint.xmi"/>
+    <resourceDescriptors xmi:id="_6XhmMafjEe2G09K-eDf-1Q" id="-MdcjJ2dV8fIwlTz2UqA2rg" uri="tasks/ajudar_a_garantir_a_qualidade_e_o_desempenho_do_software.xmi"/>
+    <resourceDescriptors xmi:id="_6XhmMqfjEe2G09K-eDf-1Q" id="-H2_k7wUGgPhxk5iknxJbCQ" uri="roles/engenheiro_de_colaborao.xmi"/>
+    <resourceDescriptors xmi:id="_6XhmM6fjEe2G09K-eDf-1Q" id="-AS-VriCAtTPflTL9E8-GLA" uri="tasks/definir_e_priorizar_o_backlog_do_produto.xmi"/>
+    <resourceDescriptors xmi:id="_6XhmNKfjEe2G09K-eDf-1Q" id="-Re_7vBPRmN_00YHdFG2SlQ" uri="tasks/garantir_que_o_produto_atenda_s_necessidades_do_cliente_e_esteja_alinhado_com_as_metas_estratgicas_do_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_jmGnYqfkEe2G09K-eDf-1Q" id="-ghoerjt_rzpvtdVaKgC9og" uri="tasks/tomar_decises_sobre_as_funcionalidades_do_produto_e_o_progresso_do_projeto.xmi"/>
+    <resourceDescriptors xmi:id="_jmGnY6fkEe2G09K-eDf-1Q" id="-QITHQgexUObjGujPe1Q5hA" uri="tasks/_facilitar_reunies_dirias_de_scrum_e_revises_de_sprint.xmi"/>
+    <resourceDescriptors xmi:id="_jmGnZKfkEe2G09K-eDf-1Q" id="-5t39wsontJzqlQ7yxsmrVA" uri="tasks/garantir_que_o_time_de_desenvolvimento_esteja_seguindo_as_prticas_geis_do_scrum.xmi"/>
+    <resourceDescriptors xmi:id="_Oy72QqfrEe2G09K-eDf-1Q" id="-hKoj8J76AUgdZzfusDOFnA" uri="roles/equipe_de_suporte.xmi"/>
+    <resourceDescriptors xmi:id="_oWCdEafrEe2G09K-eDf-1Q" id="-FL0tKicEooDfKTefCQ18ZA" uri="tasks/resolver_problemas_e_responder_a_perguntas_dos_usurios.xmi"/>
+    <resourceDescriptors xmi:id="_2ErXUafrEe2G09K-eDf-1Q" id="-lr5Cemho-tlm6ogh8T4PLw" uri="tasks/documentar_solues_e_problemas_comuns.xmi"/>
+    <resourceDescriptors xmi:id="_8FMIQqfrEe2G09K-eDf-1Q" id="-NG3WMD7TauqtBm_lw2y7Mg" uri="tasks/trabalhar_com_o_time_de_desenvolvimento_para_corrigir_bugs_e_melhorar_o_software.xmi"/>
+    <resourceDescriptors xmi:id="_8FVSMKfrEe2G09K-eDf-1Q" id="-oAPtwNDy_ipDdzNyoobS4g" uri="roles/facilitador_peripatético.xmi"/>
+    <resourceDescriptors xmi:id="_EM4oIqfsEe2G09K-eDf-1Q" id="-2FDrlxns28Qv8_wniFg-9g" uri="tasks/sensibilizao_da_equipe.xmi"/>
+    <resourceDescriptors xmi:id="_Krd1IqfsEe2G09K-eDf-1Q" id="-5Cm6JWH0Bb62QT0Fzr4reA" uri="tasks/reunies_caminhando.xmi"/>
+    <resourceDescriptors xmi:id="_RpEgcqfsEe2G09K-eDf-1Q" id="-VcBrcjBSIINycjfOfb2B_g" uri="tasks/reflexo_contnua.xmi"/>
+    <resourceDescriptors xmi:id="_WzTwsKfsEe2G09K-eDf-1Q" id="-J2-e908Gzto5Y56hJSEq-w" uri="tasks/integrao_com_o_scrum.xmi"/>
+    <resourceDescriptors xmi:id="_1bPt4KftEe2G09K-eDf-1Q" id="-5frO3bF-N4U_4lpF_DfFiQ" uri="workproducts/demonstrao_de_peripatia.xmi"/>
+    <resourceDescriptors xmi:id="_1bPt4aftEe2G09K-eDf-1Q" id="-Y3hOQD4oHjh2lG4hhmJYLg" uri="workproducts/artefatos_de_design.xmi"/>
+    <resourceDescriptors xmi:id="_7SAs8aftEe2G09K-eDf-1Q" id="-E382Ry9yulir5liNhRqn9g" uri="workproducts/peripatia_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_7SKd8KftEe2G09K-eDf-1Q" id="-xXptOOAP5otBWkHjYiU2VQ" uri="workproducts/documentao_tcnica.xmi"/>
+    <resourceDescriptors xmi:id="_9GFSoKftEe2G09K-eDf-1Q" id="-cNBlKXoRbmmX424jP7js_A" uri="workproducts/plano_de_peripatia.xmi"/>
+    <resourceDescriptors xmi:id="__w-yoKftEe2G09K-eDf-1Q" id="-3-d9k5WOl40eVrR0-6LELg" uri="workproducts/relatrios_de_status.xmi"/>
+    <resourceDescriptors xmi:id="_BjIFsKfuEe2G09K-eDf-1Q" id="-OSYrIxyksuoEbyEkAtuSGA" uri="workproducts/retrospectiva_de_peripatia.xmi"/>
+    <resourceDescriptors xmi:id="_CwnMgafuEe2G09K-eDf-1Q" id="--iOSVDqPOjNncDKCCy4SgQ" uri="workproducts/reviso_de_peripatia.xmi"/>
+    <resourceDescriptors xmi:id="_t_U8oKfyEe2G09K-eDf-1Q" id="_t-lVwKfyEe2G09K-eDf-1Q" uri="capabilitypatterns/Teste/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_L2WcQKfeEe2G09K-eDf-1Q" name="Processo peripatético" guid="_L2WcQKfeEe2G09K-eDf-1Q" briefDescription="Processo peripatético para atividdades" authors="Ruan Franklin">
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcQafeEe2G09K-eDf-1Q" name="Content" guid="_L2WcQafeEe2G09K-eDf-1Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcQqfeEe2G09K-eDf-1Q" name="Categories" guid="_L2WcQqfeEe2G09K-eDf-1Q">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcQ6feEe2G09K-eDf-1Q" name="Domains" guid="_L2WcQ6feEe2G09K-eDf-1Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcRKfeEe2G09K-eDf-1Q" name="Disciplines" guid="_L2WcRKfeEe2G09K-eDf-1Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcRafeEe2G09K-eDf-1Q" name="RoleSets" guid="_L2WcRafeEe2G09K-eDf-1Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcRqfeEe2G09K-eDf-1Q" name="WP Types" guid="_L2WcRqfeEe2G09K-eDf-1Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcR6feEe2G09K-eDf-1Q" name="Tools" guid="_L2WcR6feEe2G09K-eDf-1Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcSKfeEe2G09K-eDf-1Q" name="StandardCategories" guid="_L2WcSKfeEe2G09K-eDf-1Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcSafeEe2G09K-eDf-1Q" name="CustomCategories" guid="_L2WcSafeEe2G09K-eDf-1Q">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcSqfeEe2G09K-eDf-1Q" name="Hidden" guid="_L2WcSqfeEe2G09K-eDf-1Q">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_L2WcS6feEe2G09K-eDf-1Q" name="Custom Categories" guid="_L2WcS6feEe2G09K-eDf-1Q"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L2WcTKfeEe2G09K-eDf-1Q" name="CoreContent" guid="_L2WcTKfeEe2G09K-eDf-1Q">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M-VYAKfeEe2G09K-eDf-1Q" name="Conteúdo" guid="_M-VYAKfeEe2G09K-eDf-1Q">
+          <methodElementProperty xmi:id="_M-VYAafeEe2G09K-eDf-1Q" name="pkg_loadCheck" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PqA7IKfeEe2G09K-eDf-1Q" name="gerente_de_projeto" guid="_PqA7IKfeEe2G09K-eDf-1Q" presentationName="Gerente de Projeto">
+            <methodElementProperty xmi:id="_KhqkcKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-9X5G68UfdNL4AAfofcV6zw" href="uma://-9X5G68UfdNL4AAfofcV6zw#-9X5G68UfdNL4AAfofcV6zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8pAS4KfeEe2G09K-eDf-1Q" name="estabelecer_objetivos_e_metas_claras_para_o_projeto" guid="_8pAS4KfeEe2G09K-eDf-1Q" presentationName="Estabelecer objetivos e metas claras para o projeto" briefDescription="Estabelecer objetivos e metas claras para o projeto&#xD;&#xA;Preparar orçamentos e cronogramas detalhados&#xD;&#xA;Gerenciar riscos e resolver problemas&#xD;&#xA;Coordenar com outros departamentos e equipes envolvidas no projeto&#xD;&#xA;Fornecer relatórios regulares sobre o progresso do projeto&#xD;&#xA;" performedBy="_PqA7IKfeEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_HfCg8KfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-IR9WfbM3n28kzeidZVBweg" href="uma://-IR9WfbM3n28kzeidZVBweg#-IR9WfbM3n28kzeidZVBweg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XCJw4KffEe2G09K-eDf-1Q" name="backlog_do_produto" guid="_XCJw4KffEe2G09K-eDf-1Q" presentationName="Backlog do Produto">
+            <methodElementProperty xmi:id="_GuwTgKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-P-YS132tEJGdKbszDycB5Q" href="uma://-P-YS132tEJGdKbszDycB5Q#-P-YS132tEJGdKbszDycB5Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bRjwkKffEe2G09K-eDf-1Q" name="analista_de_requisitos" guid="_bRjwkKffEe2G09K-eDf-1Q" presentationName="Analista de requisitos">
+            <methodElementProperty xmi:id="_GHPAgKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-QyXQAyJsuujbVOssVVeTDg" href="uma://-QyXQAyJsuujbVOssVVeTDg#-QyXQAyJsuujbVOssVVeTDg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jSm14KffEe2G09K-eDf-1Q" name="entender_as_necessidades_do_cliente_atravs_de_reunies_e_pesquisas" guid="_jSm14KffEe2G09K-eDf-1Q" presentationName="Entender as necessidades do cliente através de reuniões e pesquisas" performedBy="_bRjwkKffEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_EpZwkKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-YzhA5Q6PyVmDjkg9RBhO0A" href="uma://-YzhA5Q6PyVmDjkg9RBhO0A#-YzhA5Q6PyVmDjkg9RBhO0A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AYSyoKfgEe2G09K-eDf-1Q" name="documentar_requisitos_funcionais_claros_e_detalhados" guid="_AYSyoKfgEe2G09K-eDf-1Q" presentationName="Documentar requisitos funcionais claros e detalhados" performedBy="_bRjwkKffEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_E-77sKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-4Nfp0W7RHW6wYITMHAJL5w" href="uma://-4Nfp0W7RHW6wYITMHAJL5w#-4Nfp0W7RHW6wYITMHAJL5w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Mu8mQKfgEe2G09K-eDf-1Q" name="validar_os_requisitos_com_o_cliente_e_garantir_sua_aprovao" guid="_Mu8mQKfgEe2G09K-eDf-1Q" presentationName="Validar os requisitos com o cliente e garantir sua aprovação" performedBy="_bRjwkKffEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_FVbwIKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-YV5n2Nd6TFBZciqpCPwbrA" href="uma://-YV5n2Nd6TFBZciqpCPwbrA#-YV5n2Nd6TFBZciqpCPwbrA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xrubEKfgEe2G09K-eDf-1Q" name="trabalhar_com_o_time_de_desenvolvimento_para_garantir_a_compreenso_dos_requisitos" guid="_xrubEKfgEe2G09K-eDf-1Q" presentationName="Trabalhar com o time de desenvolvimento para garantir a compreensão dos requisitos" performedBy="_bRjwkKffEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_MWyTAKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-iE2MpXJ4uR2Bd5KJtkPxyA" href="uma://-iE2MpXJ4uR2Bd5KJtkPxyA#-iE2MpXJ4uR2Bd5KJtkPxyA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8yDPQKfgEe2G09K-eDf-1Q" name="preparar_oramentos_e_cronogramas_detalhados" guid="_8yDPQKfgEe2G09K-eDf-1Q" presentationName="Preparar orçamentos e cronogramas detalhados" performedBy="_PqA7IKfeEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_Mtb4cKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-Q8cZVWWdm-WcjBrCOwDlpw" href="uma://-Q8cZVWWdm-WcjBrCOwDlpw#-Q8cZVWWdm-WcjBrCOwDlpw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XciU4KfhEe2G09K-eDf-1Q" name="gerenciar_riscos_e_resolver_problemas" guid="_XciU4KfhEe2G09K-eDf-1Q" presentationName="Gerenciar riscos e resolver problemas" performedBy="_PqA7IKfeEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_NKg2AKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-wsYZPh0tvig97T-rYle1wA" href="uma://-wsYZPh0tvig97T-rYle1wA#-wsYZPh0tvig97T-rYle1wA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_evTX4KfhEe2G09K-eDf-1Q" name="coordenar_com_outros_departamentos_e_equipes_envolvidas_no_projeto" guid="_evTX4KfhEe2G09K-eDf-1Q" presentationName="Coordenar com outros departamentos e equipes envolvidas no projeto" performedBy="_PqA7IKfeEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_NbWuYKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-m70-Iw8vuomcKPJbipcurw" href="uma://-m70-Iw8vuomcKPJbipcurw#-m70-Iw8vuomcKPJbipcurw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oz96wKfhEe2G09K-eDf-1Q" name="fornecer_relatrios_regulares_sobre_o_progresso_do_projeto" guid="_oz96wKfhEe2G09K-eDf-1Q" presentationName="Fornecer relatórios regulares sobre o progresso do projeto" performedBy="_PqA7IKfeEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_N3OLAKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-N4_RBCqdqTGomC-5m4YcmA" href="uma://-N4_RBCqdqTGomC-5m4YcmA#-N4_RBCqdqTGomC-5m4YcmA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rCCU0KfhEe2G09K-eDf-1Q" name="implementar_as_funcionalidades_do_software_de_acordo_com_os_requisitos" guid="_rCCU0KfhEe2G09K-eDf-1Q" presentationName="Implementar as funcionalidades do software de acordo com os requisitos" performedBy="_A1idYKfiEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_6XOrQKfjEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-FOqocMLMr1e_So81c9C2Kg" href="uma://-FOqocMLMr1e_So81c9C2Kg#-FOqocMLMr1e_So81c9C2Kg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_A1idYKfiEe2G09K-eDf-1Q" name="time_de_desenvolvimento" guid="_A1idYKfiEe2G09K-eDf-1Q" presentationName="Time de desenvolvimento" briefDescription="Equipe desenvolvedora do projeto">
+            <methodElementProperty xmi:id="_ObbrUKfiEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-sVJB2J-Q0hA2E_rwDRIGSg" href="uma://-sVJB2J-Q0hA2E_rwDRIGSg#-sVJB2J-Q0hA2E_rwDRIGSg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_puelwKfiEe2G09K-eDf-1Q" name="_realizar_testes_de_unidade_e_integrao" guid="_puelwKfiEe2G09K-eDf-1Q" presentationName=" Realizar testes de unidade e integração" performedBy="_A1idYKfiEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_7sU18KfjEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-4mQXAybtLbCeZQjRmfOI3Q" href="uma://-4mQXAybtLbCeZQjRmfOI3Q#-4mQXAybtLbCeZQjRmfOI3Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yc0O4KfiEe2G09K-eDf-1Q" name="participar_de_reunies_dirias_de_scrum_e_revises_de_sprint" guid="_yc0O4KfiEe2G09K-eDf-1Q" presentationName="Participar de reuniões diárias de Scrum e revisões de sprint" performedBy="_QqyCUKfjEe2G09K-eDf-1Q _A1idYKfiEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_8WyvQKfjEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-vXuNriWXGZpU_CKYF6QtKQ" href="uma://-vXuNriWXGZpU_CKYF6QtKQ#-vXuNriWXGZpU_CKYF6QtKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-uO9MKfiEe2G09K-eDf-1Q" name="ajudar_a_garantir_a_qualidade_e_o_desempenho_do_software" guid="_-uO9MKfiEe2G09K-eDf-1Q" presentationName="Ajudar a garantir a qualidade e o desempenho do software" performedBy="_bRjwkKffEe2G09K-eDf-1Q _QqyCUKfjEe2G09K-eDf-1Q _A1idYKfiEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_8_xa0KfjEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-MdcjJ2dV8fIwlTz2UqA2rg" href="uma://-MdcjJ2dV8fIwlTz2UqA2rg#-MdcjJ2dV8fIwlTz2UqA2rg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QqyCUKfjEe2G09K-eDf-1Q" name="engenheiro_de_colaborao" guid="_QqyCUKfjEe2G09K-eDf-1Q" presentationName="Engenheiro de colaboração">
+            <methodElementProperty xmi:id="_9owGYKfjEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-H2_k7wUGgPhxk5iknxJbCQ" href="uma://-H2_k7wUGgPhxk5iknxJbCQ#-H2_k7wUGgPhxk5iknxJbCQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XqAeQKfjEe2G09K-eDf-1Q" name="definir_e_priorizar_o_backlog_do_produto" guid="_XqAeQKfjEe2G09K-eDf-1Q" presentationName="Definir e priorizar o backlog do produto" performedBy="_QqyCUKfjEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_-KIVIKfjEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-AS-VriCAtTPflTL9E8-GLA" href="uma://-AS-VriCAtTPflTL9E8-GLA#-AS-VriCAtTPflTL9E8-GLA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_id10QKfjEe2G09K-eDf-1Q" name="garantir_que_o_produto_atenda_s_necessidades_do_cliente_e_esteja_alinhado_com_as_metas_estratgicas_do_projeto" guid="_id10QKfjEe2G09K-eDf-1Q" presentationName="Garantir que o produto atenda às necessidades do cliente e esteja alinhado com as metas estratégicas do projeto" performedBy="_QqyCUKfjEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="__IbJYKfjEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-Re_7vBPRmN_00YHdFG2SlQ" href="uma://-Re_7vBPRmN_00YHdFG2SlQ#-Re_7vBPRmN_00YHdFG2SlQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AlrxkKfkEe2G09K-eDf-1Q" name="tomar_decises_sobre_as_funcionalidades_do_produto_e_o_progresso_do_projeto" guid="_AlrxkKfkEe2G09K-eDf-1Q" presentationName="Tomar decisões sobre as funcionalidades do produto e o progresso do projeto" performedBy="_QqyCUKfjEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_kJx8MKfkEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-ghoerjt_rzpvtdVaKgC9og" href="uma://-ghoerjt_rzpvtdVaKgC9og#-ghoerjt_rzpvtdVaKgC9og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WGj5EKfkEe2G09K-eDf-1Q" name="_facilitar_reunies_dirias_de_scrum_e_revises_de_sprint" guid="_WGj5EKfkEe2G09K-eDf-1Q" presentationName=" Facilitar reuniões diárias de Scrum e revisões de sprint">
+            <methodElementProperty xmi:id="_j7LfgKfkEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-QITHQgexUObjGujPe1Q5hA" href="uma://-QITHQgexUObjGujPe1Q5hA#-QITHQgexUObjGujPe1Q5hA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aHDTAKfkEe2G09K-eDf-1Q" name="garantir_que_o_time_de_desenvolvimento_esteja_seguindo_as_prticas_geis_do_scrum" guid="_aHDTAKfkEe2G09K-eDf-1Q" presentationName="Garantir que o time de desenvolvimento esteja seguindo as práticas ágeis do Scrum" performedBy="_QqyCUKfjEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_jmGnYKfkEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-5t39wsontJzqlQ7yxsmrVA" href="uma://-5t39wsontJzqlQ7yxsmrVA#-5t39wsontJzqlQ7yxsmrVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_l7JZ4KfpEe2G09K-eDf-1Q" name="facilitar_reunies_dirias_de_scrum_e_revises_de_sprint" guid="_l7JZ4KfpEe2G09K-eDf-1Q" presentationName="Facilitar reuniões diárias de Scrum e revisões de sprint" performedBy="_QqyCUKfjEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_ofRjgKfpEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_weJCEKfqEe2G09K-eDf-1Q" name="realizar_de_unidade_e_integrao" guid="_weJCEKfqEe2G09K-eDf-1Q" presentationName="Realizar de unidade e integração" performedBy="_A1idYKfiEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_yU9ZwKfqEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_G6bo8KfrEe2G09K-eDf-1Q" name="equipe_de_suporte" guid="_G6bo8KfrEe2G09K-eDf-1Q" presentationName="Equipe de Suporte">
+            <methodElementProperty xmi:id="_Oy72QKfrEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-hKoj8J76AUgdZzfusDOFnA" href="uma://-hKoj8J76AUgdZzfusDOFnA#-hKoj8J76AUgdZzfusDOFnA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N_lGsKfrEe2G09K-eDf-1Q" name="fornecer_suporte_ao_software_aps_o_lanamento" guid="_N_lGsKfrEe2G09K-eDf-1Q" presentationName="Fornecer suporte ao software após o lançamento" performedBy="_G6bo8KfrEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_OgmwIKfrEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RQcagKfrEe2G09K-eDf-1Q" name="resolver_problemas_e_responder_a_perguntas_dos_usurios" guid="_RQcagKfrEe2G09K-eDf-1Q" presentationName="Resolver problemas e responder a perguntas dos usuários" performedBy="_G6bo8KfrEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_YquawKfrEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-FL0tKicEooDfKTefCQ18ZA" href="uma://-FL0tKicEooDfKTefCQ18ZA#-FL0tKicEooDfKTefCQ18ZA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ny3ekKfrEe2G09K-eDf-1Q" name="documentar_solues_e_problemas_comuns" guid="_ny3ekKfrEe2G09K-eDf-1Q" presentationName="Documentar soluções e problemas comuns" performedBy="_G6bo8KfrEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_siKfQKfrEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-lr5Cemho-tlm6ogh8T4PLw" href="uma://-lr5Cemho-tlm6ogh8T4PLw#-lr5Cemho-tlm6ogh8T4PLw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV4ogKfrEe2G09K-eDf-1Q" name="trabalhar_com_o_time_de_desenvolvimento_para_corrigir_bugs_e_melhorar_o_software" guid="_wV4ogKfrEe2G09K-eDf-1Q" presentationName="Trabalhar com o time de desenvolvimento para corrigir bugs e melhorar o software" performedBy="_G6bo8KfrEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_2EhmUKfrEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-NG3WMD7TauqtBm_lw2y7Mg" href="uma://-NG3WMD7TauqtBm_lw2y7Mg#-NG3WMD7TauqtBm_lw2y7Mg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_3sr28KfrEe2G09K-eDf-1Q" name="facilitador_peripatético" guid="_3sr28KfrEe2G09K-eDf-1Q" presentationName="Facilitador peripatético">
+            <methodElementProperty xmi:id="_8FMIQKfrEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-oAPtwNDy_ipDdzNyoobS4g" href="uma://-oAPtwNDy_ipDdzNyoobS4g#-oAPtwNDy_ipDdzNyoobS4g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CMkWMKfsEe2G09K-eDf-1Q" name="sensibilizao_da_equipe" guid="_CMkWMKfsEe2G09K-eDf-1Q" presentationName="Sensibilização da Equipe" performedBy="_3sr28KfrEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_EM4oIKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-2FDrlxns28Qv8_wniFg-9g" href="uma://-2FDrlxns28Qv8_wniFg-9g#-2FDrlxns28Qv8_wniFg-9g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_I1fK8KfsEe2G09K-eDf-1Q" name="reunies_caminhando" guid="_I1fK8KfsEe2G09K-eDf-1Q" presentationName="Reuniões Caminhando" performedBy="_3sr28KfrEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_Krd1IKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-5Cm6JWH0Bb62QT0Fzr4reA" href="uma://-5Cm6JWH0Bb62QT0Fzr4reA#-5Cm6JWH0Bb62QT0Fzr4reA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OOhFIKfsEe2G09K-eDf-1Q" name="reflexo_contnua" guid="_OOhFIKfsEe2G09K-eDf-1Q" presentationName="Reflexão Contínua" performedBy="_3sr28KfrEe2G09K-eDf-1Q">
+            <methodElementProperty xmi:id="_RpEgcKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-VcBrcjBSIINycjfOfb2B_g" href="uma://-VcBrcjBSIINycjfOfb2B_g#-VcBrcjBSIINycjfOfb2B_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VFgLEKfsEe2G09K-eDf-1Q" name="integrao_com_o_scrum" guid="_VFgLEKfsEe2G09K-eDf-1Q" presentationName="Integração com o Scrum">
+            <methodElementProperty xmi:id="_WzKmwKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-J2-e908Gzto5Y56hJSEq-w" href="uma://-J2-e908Gzto5Y56hJSEq-w#-J2-e908Gzto5Y56hJSEq-w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bv8p0KfsEe2G09K-eDf-1Q" name="peripatia_backlog" guid="_bv8p0KfsEe2G09K-eDf-1Q" presentationName="Peripatia Backlog" briefDescription="Uma lista de tarefas que serão realizadas durante o próximo sprint.">
+            <methodElementProperty xmi:id="_hBRZgKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-E382Ry9yulir5liNhRqn9g" href="uma://-E382Ry9yulir5liNhRqn9g#-E382Ry9yulir5liNhRqn9g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_i4wfkKfsEe2G09K-eDf-1Q" name="plano_de_peripatia" guid="_i4wfkKfsEe2G09K-eDf-1Q" presentationName="Plano de peripatia" briefDescription="Um documento que define as metas e objetivos para o próximo sprint.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_j4yZMKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-cNBlKXoRbmmX424jP7js_A" href="uma://-cNBlKXoRbmmX424jP7js_A#-cNBlKXoRbmmX424jP7js_A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_p1JC4KfsEe2G09K-eDf-1Q" name="reviso_de_peripatia" guid="_p1JC4KfsEe2G09K-eDf-1Q" presentationName="Revisão de Peripatia" briefDescription="Revisão de Sprint: uma reunião onde o time revisita o que foi concluído durante o sprint e discute o que pode ser melhorado no próximo.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_tpzAQKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="--iOSVDqPOjNncDKCCy4SgQ" href="uma://--iOSVDqPOjNncDKCCy4SgQ#--iOSVDqPOjNncDKCCy4SgQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vr1JcKfsEe2G09K-eDf-1Q" name="demonstrao_de_peripatia" guid="_vr1JcKfsEe2G09K-eDf-1Q" presentationName="Demonstração de Peripatia" briefDescription="Demonstração de Sprint: uma demonstração dos resultados do sprint para o time e para o stakeholder.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_0cNvQKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-5frO3bF-N4U_4lpF_DfFiQ" href="uma://-5frO3bF-N4U_4lpF_DfFiQ#-5frO3bF-N4U_4lpF_DfFiQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2VEHQKfsEe2G09K-eDf-1Q" name="retrospectiva_de_peripatia" guid="_2VEHQKfsEe2G09K-eDf-1Q" presentationName="Retrospectiva de Peripatia" briefDescription="uma reunião onde o time reflete sobre o que funcionou bem e o que precisa ser melhorado durante o sprint.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_6m6-AKfsEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-OSYrIxyksuoEbyEkAtuSGA" href="uma://-OSYrIxyksuoEbyEkAtuSGA#-OSYrIxyksuoEbyEkAtuSGA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__EnRUKfsEe2G09K-eDf-1Q" name="artefatos_de_design" guid="__EnRUKfsEe2G09K-eDf-1Q" presentationName="Artefatos de Design" briefDescription="Artefatos de Design: documentos, fluxogramas e protótipos que descrevem a solução proposta.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_BanfYKftEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-Y3hOQD4oHjh2lG4hhmJYLg" href="uma://-Y3hOQD4oHjh2lG4hhmJYLg#-Y3hOQD4oHjh2lG4hhmJYLg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DVURgKftEe2G09K-eDf-1Q" name="documentao_tcnica" guid="_DVURgKftEe2G09K-eDf-1Q" presentationName="Documentação Técnica" briefDescription=" documentação detalhada sobre o código, as APIs e outras informações técnicas relevantes.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_J4cnUKftEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-xXptOOAP5otBWkHjYiU2VQ" href="uma://-xXptOOAP5otBWkHjYiU2VQ#-xXptOOAP5otBWkHjYiU2VQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Jb1j0KftEe2G09K-eDf-1Q" name="relatrios_de_status" guid="_Jb1j0KftEe2G09K-eDf-1Q" presentationName="Relatórios de Status" briefDescription="Relatórios de Status: relatórios que apresentam o andamento do projeto e informações relevantes sobre o progresso.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_LtGb0KftEe2G09K-eDf-1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-3-d9k5WOl40eVrR0-6LELg" href="uma://-3-d9k5WOl40eVrR0-6LELg#-3-d9k5WOl40eVrR0-6LELg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_L2WcTafeEe2G09K-eDf-1Q" name="CapabilityPatterns" guid="_L2WcTafeEe2G09K-eDf-1Q">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_t-lVwKfyEe2G09K-eDf-1Q" href="uma://_t-lVwKfyEe2G09K-eDf-1Q#_t-lVwKfyEe2G09K-eDf-1Q"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_L2WcTqfeEe2G09K-eDf-1Q" name="DeliveryProcesses" guid="_L2WcTqfeEe2G09K-eDf-1Q"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_L2WcT6feEe2G09K-eDf-1Q" name="ProcessContributions" guid="_L2WcT6feEe2G09K-eDf-1Q"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

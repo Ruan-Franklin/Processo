@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hKoj8J76AUgdZzfusDOFnA" name="new_role,_G6bo8KfrEe2G09K-eDf-1Q" guid="-hKoj8J76AUgdZzfusDOFnA" changeDate="2023-02-08T17:00:12.748-0300">
+  <mainDescription>Equipe para ajudar no suporte de versões futuras</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9X5G68UfdNL4AAfofcV6zw" name="new_role,_PqA7IKfeEe2G09K-eDf-1Q" guid="-9X5G68UfdNL4AAfofcV6zw" changeDate="2023-02-08T15:32:29.034-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-6994c677-7fff-d866-9ac7-3e2ade43520e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+É responsável por garantir que o projeto esteja em conformidade com as diretrizes do Fordismo e do Scrum. Eles serão&#xD;
+os&amp;nbsp; responsáveis diretos&amp;nbsp; por orçamento, programação e supervisão do projeto.&lt;/span>&lt;/b></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

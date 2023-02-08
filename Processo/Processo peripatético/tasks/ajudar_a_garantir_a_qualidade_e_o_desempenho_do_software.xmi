@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MdcjJ2dV8fIwlTz2UqA2rg" name=",_-uO9MKfiEe2G09K-eDf-1Q" guid="-MdcjJ2dV8fIwlTz2UqA2rg" changeDate="2023-02-08T16:02:50.352-0300">
+  <mainDescription>&lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(55,65,81); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(247,247,248); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Esta tarefa envolve colaborar com o time de desenvolvimento para garantir a qualidade e o desempenho do software. Isso&#xD;
+inclui realizar testes rigorosos e revisões do código, identificar e resolver problemas de desempenho, e implementar&#xD;
+melhorias para garantir que o software atenda aos requisitos do cliente e seja estável e eficiente. Além disso, esta tarefa&#xD;
+pode incluir a colaboração com o departamento de suporte para ajudar a solucionar problemas relatados pelos usuários&lt;/span></mainDescription>
+  <purpose>&lt;font style=&quot;BACKGROUND-COLOR: #f7f7f8&quot; color=&quot;#374151&quot; face=&quot;Segoe UI&quot;>colaborar com o time de desenvolvimento para&#xD;
+garantir a qualidade e o desempenho do software&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI epf:version="1.5.1" xmi:version="2.0" xmlns:epf="http://www.eclipse.org/epf" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:xmi="http://www.omg.org/XMI">
+<org.eclipse.epf.uma.resourcemanager:ResourceManager guid="_HR-5MafeEe2G09K-eDf-1Q" xmi:id="_HR-5MafeEe2G09K-eDf-1Q">
+<subManagers href="uma://_L2WcQKfeEe2G09K-eDf-1Q#_L2WcUafeEe2G09K-eDf-1Q" xmi:id="_L2WcUafeEe2G09K-eDf-1Q">
+</subManagers>
+<resourceDescriptors id="_HR-5MKfeEe2G09K-eDf-1Q" uri="" xmi:id="_HR-5MqfeEe2G09K-eDf-1Q">
+</resourceDescriptors>
+<resourceDescriptors id="_L2WcQKfeEe2G09K-eDf-1Q" uri="Processo peripatético/plugin.xmi" xmi:id="_L2WcUqfeEe2G09K-eDf-1Q">
+</resourceDescriptors>
+</org.eclipse.epf.uma.resourcemanager:ResourceManager>
+<org.eclipse.epf.uma:MethodLibrary guid="_HR-5MKfeEe2G09K-eDf-1Q" name="Library1" xmi:id="_HR-5MKfeEe2G09K-eDf-1Q">
+<methodPlugins href="uma://_L2WcQKfeEe2G09K-eDf-1Q#_L2WcQKfeEe2G09K-eDf-1Q" xmi:id="_L2WcQKfeEe2G09K-eDf-1Q">
+</methodPlugins>
+<methodElementProperty value="0">
+</methodElementProperty>
+<methodElementProperty value="_L2WcQKfeEe2G09K-eDf-1Q">
+</methodElementProperty>
+<methodElementProperty value="Processo peripatético">
+</methodElementProperty>
+<methodElementProperty value="_nPGUEKf0Ee2G09K-eDf-1Q">
+</methodElementProperty>
+<methodElementProperty value="processo">
+</methodElementProperty>
+<methodElementProperty value="_x41S4Kf0Ee2G09K-eDf-1Q">
+</methodElementProperty>
+<methodElementProperty value="new_plug-in">
+</methodElementProperty>
+</org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

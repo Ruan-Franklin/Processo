@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_t_U8oafyEe2G09K-eDf-1Q" guid="_t_U8oafyEe2G09K-eDf-1Q">
+    <resourceDescriptors xmi:id="_t_U8oqfyEe2G09K-eDf-1Q" id="-_yuMm9gjoiraOKPxLfIzzw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_t-lVwKfyEe2G09K-eDf-1Q" name="Teste" guid="_t-lVwKfyEe2G09K-eDf-1Q">
+    <methodElementProperty xmi:id="_t-lVwqfyEe2G09K-eDf-1Q" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_t-lVwafyEe2G09K-eDf-1Q" name="Teste" guid="_t-lVwafyEe2G09K-eDf-1Q" presentationName="Teste">
+      <presentation xmi:id="-_yuMm9gjoiraOKPxLfIzzw" href="uma://-_yuMm9gjoiraOKPxLfIzzw#-_yuMm9gjoiraOKPxLfIzzw"/>
+      <defaultContext href="uma://_HR-5MKfeEe2G09K-eDf-1Q#_1xpx0KfkEe2G09K-eDf-1Q"/>
+      <validContext href="uma://_HR-5MKfeEe2G09K-eDf-1Q#_1xpx0KfkEe2G09K-eDf-1Q"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

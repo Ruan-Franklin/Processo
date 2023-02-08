@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wsYZPh0tvig97T-rYle1wA" name=",_XciU4KfhEe2G09K-eDf-1Q" guid="-wsYZPh0tvig97T-rYle1wA" changeDate="2023-02-08T15:50:12.352-0300">
+  <mainDescription>&lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(55,65,81); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(247,247,248); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Esta tarefa consiste em identificar, avaliar e priorizar possíveis riscos que possam afetar o projeto de maneira negativa,&#xD;
+e implementar medidas preventivas para garantir o sucesso do projeto. Além disso, é responsabilidade gerenciar problemas&#xD;
+que surjam durante o projeto, buscando soluções eficazes e rápidas para garantir o andamento do projeto dentro do prazo e&#xD;
+orçamento estabelecidos. É importante monitorar constantemente os riscos e problemas, atualizando as medidas preventivas e&#xD;
+soluções conforme necessário.&lt;/span></mainDescription>
+  <purpose>&lt;font style=&quot;BACKGROUND-COLOR: #f7f7f8&quot; color=&quot;#374151&quot; face=&quot;Segoe UI&quot;>&amp;nbsp;avaliar e priorizar possíveis riscos que&#xD;
+possam afetar o projeto de maneira negativa&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

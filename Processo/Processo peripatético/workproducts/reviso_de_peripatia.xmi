@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--iOSVDqPOjNncDKCCy4SgQ" name="new_artifact,_p1JC4KfsEe2G09K-eDf-1Q" guid="--iOSVDqPOjNncDKCCy4SgQ">
+  <mainDescription>Revisão de Sprint: uma reunião onde o time revisita o que foi concluído durante o sprint e discute o que pode ser melhorado&#xD;
+no próximo.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>
